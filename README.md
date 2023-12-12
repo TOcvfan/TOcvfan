@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TOcvfan
 - 👀 I’m interested in react, old citroen 2cvs and Legos
-- 🌱 I’m currently learning more react and to be an IT-supporter 
-- 💞️ I’m looking to collaborate on (I don't know what this means) 
+- 🌱 I’m currently learning more react and to be a programmer 
+- 💞️ I’m looking to collaborate on women
 - 📫 How to reach me here in github.com
 
 <!---
